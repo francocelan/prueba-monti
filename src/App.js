@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Funciona Octa
+          Version con solo GIT
         </p>
         <a
           className="App-link"
