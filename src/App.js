@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Version con solo GIT
+          Version con solo FINAL
         </p>
         <a
           className="App-link"
